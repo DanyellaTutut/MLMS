@@ -1,0 +1,21 @@
+/* Empty. Add your own CSS if you like */
+
+body .view-container.tab-content {
+  background-color: transparent;
+}
+
+body .pane, .menu, .view, .list, .item       {
+    background: transparent;
+}
+
+.images-parent{
+      text-align: center;
+    }
+.center-image{
+      margin:0 auto;
+     
+    }.
+ .item .row, .item .col {
+  padding: 0;
+  
+}
